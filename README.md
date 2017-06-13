@@ -1,1 +1,1 @@
-Work on adaptation of (ByteNet)[https://arxiv.org/abs/1610.10099] (based on (https://github.com/buriburisuri/ByteNet)[https://github.com/buriburisuri/ByteNet]) model for Unpossibly message prediction challenge.
+Work on adaptation of [ByteNet](https://arxiv.org/abs/1610.10099) (based on [https://github.com/buriburisuri/ByteNet](https://github.com/buriburisuri/ByteNet)) model for Unpossibly message prediction challenge.
